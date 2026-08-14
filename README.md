@@ -12,7 +12,7 @@
 
 <br>
 
-📛&nbsp;• `Software Engineering | sometimes Pentester :P`
+📛&nbsp;• `DevOps Engineering | sometimes Pentester :P`
 
 💻&nbsp; `Systems` • `Reverse Engineering`
 
